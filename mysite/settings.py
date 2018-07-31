@@ -25,7 +25,7 @@ SECRET_KEY = '!%ej9v^uwt@#&3nz40xgqfrqa9&^870shkf77-r4q3zz=@_(wk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'mbsleti.pythonanywhere.com']
 
 
 # Application definition
